@@ -1,6 +1,6 @@
 # gRPC Demo App
 
-A simple Node app to demonstrate gRPC.
+A simple Node app to demonstrate gRPC (Remote Procedure Call).
 
 ## What is RPC
 
