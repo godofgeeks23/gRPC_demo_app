@@ -1,4 +1,4 @@
-# gRPC Demo App
+# gRPC Demo Application
 
 A simple Node app to demonstrate gRPC (Remote Procedure Call).
 
