@@ -29,5 +29,3 @@ client.insert(newNote, (error, note) => {
         console.error(error);
     }
 });
-
-
